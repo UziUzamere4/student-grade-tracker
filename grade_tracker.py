@@ -4,3 +4,4 @@ name = input("Enter student name: ")
 grade = input("Enter student grade: ")
 
 print(name, "has a grade of", grade)
+print("Grade tracker complete")
